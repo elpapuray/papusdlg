@@ -1,10 +1,15 @@
 <!Doctype html>
 <html>
     <head>
-        <title> NATAKONG </title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="css/estilos.css">
+        <title> pagina2 </title>
     </head>
     <body> 
-        <h1> Y PUROS CORRIDOS TUMBADOS CAON</h1> <br>
+        <header>
+        <h1> NATAKONG</h1>
+        </header> <br>
+        <main>
         <p> Muchos aún no lo saben, pero los elementos del polka y folklor fueron introducidos por europeos a México en el 1830. El sonido de la guitarra y el acordeón fueron adaptados por el pueblo, adquiriendo se cómo música propia. Artistas como Narciso Martínez recuerdan haber escuchado la polka cuando eran tan solo un niño Pero algunos artistas remplazaron el latón con otros sonidos , también comenzaron a contar sus historias y el uso de las letras para dar noticia a la revolución , se conocerían cómo boleros mexicanos. 
 
             Con el tiempo la música norteña tocada en tierras rurales comenzaría a funcionarse con los clásicos del bolero esto dio luz a una nueva forma de interpretar la música conocida popularmente como la música ranchera: canciones de la tierra.
@@ -22,6 +27,21 @@
             El espíritu de la música Trap atrajo a los jóvenes artistas Mexicanos. Repasando las influencias fundamentales de los ritmos urbanos, la sensibilidad del Hip-Hop y la superposición de las letras de los Corridos. 
             
             Lo desglosaron y lo recrearon a lo que ahora llamamos: CORRIDOS TUMBADOS</p>
+        </main>
+     <form>
+        <input type="text" required="">
+        <input type="password" required="">
+        <input type="number">
+        <input type="email">
+        <input type="color">
+        <input type="range">
+        <input type="time">
+        <input type="button" value="boton">
+        <textarea></textarea>
+        <input type="submit">
+
+    </form>
+
     </body>
 
 
